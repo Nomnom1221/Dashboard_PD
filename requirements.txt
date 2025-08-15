@@ -1,0 +1,7 @@
+﻿streamlit
+pandas
+millify
+plotly
+altair
+pycountry-convert
+numpy
